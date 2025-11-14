@@ -1,5 +1,5 @@
 {
-  "name": "telegram-info-bot",
+  "name": "TG-Info-Bot",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
